@@ -1,3 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+.venv/
+venv/
+.vscode/
+_pycache_/
+*._pycache_
+tempCodeRunnerFilepythonpython
